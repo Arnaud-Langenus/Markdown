@@ -65,4 +65,4 @@ decided I wasn't wet enough already ([Proof](https://imgur.com/a/pJKgGuq)).
 I learned that wildwater rafting is not fun if you can't breathe underwater.
 
 
-                     [<<  Previous]() || Arnaud Langenus || [Next  >>](https://github.com/chrishargan/challenge-markdown/blob/master/README.md)
+[<<  Previous]() || Arnaud Langenus || [Next  >>](https://github.com/chrishargan/challenge-markdown/blob/master/README.md)
