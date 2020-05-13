@@ -53,10 +53,10 @@ but there are many more I like.
 #### A funny story 
 When I was in Zimbabwe I went rafting on the Zambezi river. There is a rapid (a sudden increase in water velocity and turbulence) called [The Washing Machine](https://imgur.com/tcucOPJ),
 where the raft capsized, and everyone on board got thrown into the coarsing river. <br/>
-Everyone made it back on board apart from, of course, me. A life guard came to save me with his <br/>
-hilariously short 1m long kayak, where I had to grab on like a baby monkey grabs on to the back <br/>
+Everyone made it back on board apart from, of course, me. A life guard came to save me with his
+hilariously short 1m long kayak, <br/> where I had to grab on like a baby monkey grabs on to the back <br/>
 of his mother. This did not go to plan, because the next great rapid called The Terminator, a humongous torrent the size 
-of the pool of tears I will cry once JavaScript starts, swallowed me whole, and dragged me down to the bottom of the river, where I stayed for exactly 11 seconds. The only proof I have <br/>
+of the pool of tears I will cry once JavaScript starts, swallowed me whole, and dragged me down to the bottom of the river, where I stayed for exactly 11 seconds. The only proof I have
 of this adventure is a picture of me on the moment of capsizing, and when my lifeguard <br/>
 decided I wasn't wet enough already ([Proof](https://imgur.com/a/pJKgGuq)).
 <br/>
